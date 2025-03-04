@@ -3,57 +3,115 @@ title: Home
 layout: page
 ---
 
-# Foundation Models for Science Big Data
+# IEEE ICDM 2025: Undergraduate and High School Symposium
 
-Time: **Dec 15-18, 2024**
+Time: **Nov 11-15, 2025**
 
 Location: **Washington D.C., USA**
 
-{% include figure.html img="front-page.jpg" alt="intro image here" width="100%" %}
 
 ## Introduction
-The capabilities of foundation models for science big data span a wide spectrum, from the atomic level, where it solves partial differential equations for quantum systems, to the molecular level, predicting chemical or protein structures, and further extending to societal predictions like infectious disease outbreaks. However, there remain significant challenges to unlock the full potential of foundation models for scientific discovery, such as ensuring trustworthiness, achieving personalization, and adapting to multi-modal data representation. This workshop welcomes a wide range of contributions involving developing, analyzing, or applying foundation models for science big data spanning across various domains (e.g., biomedicine, chemistry, math, physics, material science, and geography) and various modalities (e.g., text, images, tables, graphs, and time series).
+We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of big data and related disciplines.
 
-## Submission
-We accept both **long papers** (up to 10 pages in IEEE 2-column format, including references) and **short papers** (up to 5 pages in IEEE 2-column format, including references). Papers should be formatted to [IEEE Computer Society Proceedings Manuscript Formatting Guidelines](https://www.ieee.org/conferences/publishing/templates.html). Submissions that do not adhere to the format requirements will be **rejected without review**.
+## Scope of Topics
+We invite submissions of original research papers from undergraduate and high school students on topics related to big data, including but not limited to:
 
-**The submission system**: [On-Line Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S19&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php).
+A.  Big Data Science and Foundations
+  - Novel Theoretical Models for Big Data
+  - New Computational Models for Big Data
+  - Data and Information Quality for Big Data
+  - New Data Standards
+    
+B.  Big Data Infrastructure
+  - Cloud/Grid/Stream Computing for Big Data
+  - High Performance/Parallel Computing Platforms for Big Data
+  - Autonomic Computing and Cyber-infrastructure, System Architectures, Design and Deployment
+  - Energy-efficient Computing for Big Data
+  - Programming Models and Environments for Cluster, Cloud, and Grid Computing to Support Big Data
+  - Software Techniques and Architectures in Cloud/Grid/Stream Computing
+  - Big Data Open Platforms
+  - New Programming Models for Big Data beyond Hadoop/MapReduce, STORM
+  - Software Systems to Support Big Data Computing
 
-## Review
-The review process is **single-blind**, meaning that reviewers remain anonymous, but authors are not. All papers accepted for this workshop will be included in the Workshop Proceedings published by the IEEE Computer Society Press and made available at the IEEE Big Data 2024 Conference. Each accepted paper is required to have **at least one author** register and present the work at the workshop during the IEEE Big Data 2024 Conference.
+C.  Big Data Management
+  - Data Acquisition, Integration, Cleaning, and Best Practices
+  - Computational Modeling and Data Integration 
+  - Large-scale Recommendation Systems and Social Media Systems
+  - Cloud/Grid/Stream Data Mining- Big Velocity Data
+  - Mobility and Big Data
+  - Multimedia and Multi-structured Data- Big Variety Data
+  - Compliance and Governance for Big Data
 
-## Authorship
-The list of authors for submissions must comprise individuals who have made significant contributions to the work presented. The author list, including the order, cannot be altered after submission.
+D.  Big Data Search and Mining
+  - Social Web Search and Mining
+  - Web Search
+  - Algorithms and Systems for Big Data Search
+  - Distributed, and Peer-to-peer Search
+  - Big Data Search Architectures, Scalability and Efficiency
+  - Link and Graph Mining
+  - Semantic-based Data Mining and Data Pre-processing
+  - Search and Mining of variety of data including scientific and engineering, social, sensor/IoT/IoE, and multimedia data
 
-## Ethics Statement
-We strongly encourage all authors to include an explicit ethics statement regarding the broader impact of their work or any other ethical considerations. This statement should be positioned after the conclusion but before the references. The ethics statement will not be counted toward the page limits for submissions.
+E.  Big Data Learning and Analytics
+  - Predictive analytics on Big Data
+  - Machine learning algorithms for Big Data
+  - Deep learning for Big Data
+  - Feature representation learning for Big Data
+  - Dimension reduction for Big Data
+  - Physics informed Big Data learning
+  - Visualization Analytics for Big Data 
 
-## Supplementary Materials
-You have the option to include unlimited pages of appendices at the end of your submission, following the references. Appendices should be used to provide additional support for the findings and points presented in the main content but should not be necessary to grasp the core contributions of your work.
+F.  Data Ecosystem
+  - Data ecosystem concepts, theory, structure, and process
+  - Ecosystem services and management
+  - Methods for data exchange, monetization, and pricing
+  - Trust, resilience, privacy, and security issues
+  - Privacy preserving Big Data collection/analytics
+  - Trust management in Big Data systems
+  - Ecosystem assessment, valuation, and sustainability
+  - Experimental studies of fairness, diversity, accountability, and transparency
 
-For software (source codes) or data, as our submission process is single-blind, we encourage you to host them in public repositories, such as GitHub, and provide links for reference.
+G.  Foundation Models for Big Data
+  - Big data management for pre-training
+  - Big data management for fine-tuning
+  - Big data management for prompt-tuning
+  - Prompt Engineering and its Management
+  - Foundation Model Operationalization for multiple users
 
-## Research Topics
-We consider a broad range of subject areas focused on foundation models for science big data. A non-exhaustive list of topics of interest includes:
-- **Science Domains**: biomedicine, chemistry, math, physics, material science, geography, ...
-- **Data Modalities**: text, images, tables, graphs, time series, domain-specific data, ...
-- **Model Life-cycle**: development, analysis, and applications, ... 
-- **Evaluation**: benchmarks, scalable oversight, evaluation protocols and metrics, human and/or machine evaluation, ...
-- **Trustworthiness**: factuality, groundedness, uncertainty, explainability, bias and safety, security, privacy, robustness, ... 
-- **Compute Efficiency**: distillation, compression, quantization, sample efficient methods, memory efficient methods, ... 
-- **Engineering**: distributed training and inference on different hardware setups, training dynamics, optimization instability, ... 
-- **Learning Algorithms**: learning, unlearning, meta-learning, model mixing methods, continual learning, ...
-- **Inference Algorithms**: decoding algorithms, reasoning algorithms, search algorithms, planning algorithms, ...
-- **Tools and Code**: pre-trained foundation models, integration with tools and APIs, LM-driven software engineering ...
+H.  Big Data Applications
+  - Complex Big Data Applications in Science, Engineering, Medicine, Healthcare, Finance, Business, Law, Education, Transportation, Retailing, Telecommunication
+  - Big Data Analytics in Small Business Enterprises (SMEs)
+  - Big Data Analytics in Government, Public Sector and Society in General
+  - Real-life Case Studies of Value Creation through Big Data Analytics
+  - Big Data as a Service
+  - Big Data Industry Standards
+  - Experiences with Big Data Project Deployments
 
-## Important Dates
-- **Oct 1, 2024**: Due date for full workshop papers submission 
-- **Nov 4, 2024**: Notification of paper acceptance to authors
-- **Nov 20, 2024**: Camera-ready of accepted papers
-- **Dec 15-18, 2024**: Workshop date (TBD)
+Submitted papers should present novel ideas, methodologies, algorithms, or applications in the realm of big data. Papers will be evaluated based on their technical quality, novelty, relevance, and clarity of presentation.
 
-## Program Chairs
-- **[Xuan Wang](https://xuanwang91.github.io/)**, Virginia Tech
-- **[Qi Li](https://sites.google.com/iastate.edu/qili/home?authuser=0)**, Iowa State University
-- **[Yu Zhang](https://yuzhimanhua.github.io/)**, University of Illinois Urbana-Champaign
-  
+## Eligibility
+- Undergraduate students and high school students pursuing an academic degree at the time of submission are eligible to submit papers as first authors.
+- Each submission must have at least one student author, who should be the presenter if the paper is accepted.
+- Co-authorship with faculty members or researchers is allowed, but the student must be the primary contributor to the work.
+
+## Submission Format Requirements
+- Submissions must adhere to the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)).
+- **Undergraduate student** research papers should not exceed **6 pages**, including all figures, tables, and references.
+- **High school student** research papers should not exceed **5 pages**, including all figures, tables, and references.
+- **Please highlight whether the first author is a high school student or an undergraduate student in the author affiliation of your submitted paper.**
+
+## Important Dates 
+- Paper Submission Deadline: Sep 1, 2025 11:59 PM AoE
+- Notification of Acceptance: Oct 1, 2025 
+- Camera-Ready Paper Submission: Oct 15, 2025
+- Symposium Date: TBD 
+
+## How to Submit
+Please submit your papers electronically through the symposium's submission portal: **TBD**. The review process is single-blind, meaning that reviewers remain anonymous, but authors are not. All papers accepted by this symposium will be included in the Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference. 
+
+## Program Committee Members (TBD) 
+
+## Program Agenda (TBD)
+
+## Program Co-Chairs
+Join us in shaping the future of big data research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/)** and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
