@@ -109,7 +109,7 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - Submissions must adhere to the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)).
 - Undergraduate student research papers should not exceed 6 pages, including all figures, tables, and references.
 - High school student research papers should not exceed 5 pages, including all figures, tables, and references.
-- **Please highlight whether the first author is a high school student or an undergraduate student in the author affiliation of your submitted paper.**
+- **Please highlight whether the first author is a high school or an undergraduate student in the author affiliation of your submitted paper.**
 
 ## Important Dates 
 - Paper Submission Deadline: Sep 1, 2025 11:59 PM AoE
