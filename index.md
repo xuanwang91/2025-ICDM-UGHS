@@ -11,10 +11,10 @@ Location: **Washington D.C., USA**
 
 
 ## Introduction
-We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of big data and related disciplines.
+We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of data mining and related disciplines.
 
 ## Scope of Topics
-We invite submissions of original research papers from undergraduate and high school students on topics related to big data, including but not limited to:
+We invite submissions of original research papers from undergraduate and high school students on topics related to data mining, including but not limited to:
 
 - Foundations, algorithms, models, and theory of data mining, including big data mining
 - Machine learning, deep learning, and statistical methods for big data
@@ -98,7 +98,7 @@ H.  Big Data Applications
   - Experiences with Big Data Project Deployments
 -->
 
-Submitted papers should present novel ideas, methodologies, algorithms, or applications in the realm of big data. Papers will be evaluated based on their technical quality, novelty, relevance, and clarity of presentation.
+Submitted papers should present novel ideas, methodologies, algorithms, or applications in the realm of data mining. Papers will be evaluated based on their technical quality, novelty, relevance, and clarity of presentation.
 
 ## Eligibility
 - Undergraduate students and high school students pursuing an academic degree at the time of submission are eligible to submit papers as first authors.
@@ -125,4 +125,4 @@ Please submit your papers electronically through the symposium's submission port
 ## Program Agenda (TBD)
 
 ## Program Co-Chairs
-Join us in shaping the future of big data research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/) and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
+Join us in shaping the future of data mining research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/) and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
