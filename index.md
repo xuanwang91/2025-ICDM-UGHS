@@ -16,12 +16,22 @@ We are delighted to announce the 2nd Undergraduate and High School Symposium, to
 ## Scope of Topics
 We invite submissions of original research papers from undergraduate and high school students on topics related to big data, including but not limited to:
 
+- Foundations, algorithms, models, and theory of data mining, including big data mining
+- Machine learning, deep learning, and statistical methods for big data
+- Mining heterogeneous data sources, including text, semi-structured, spatio-temporal, streaming, graph, web, and multimedia data
+- Data mining systems and platforms for analyzing big data, including methods for parallel and distributed data mining, federated learning, and their efficiency, scalability, security, and privacy
+- Data mining for modeling, visualization, personalization, and recommendation
+- Data mining for cyber-physical systems and complex, time-evolving networks
+- Data mining with large language models
+- Novel applications of data mining in data science, including big data analysis in social sciences, physical sciences, engineering, life sciences, climate science, web, marketing, finance, precision medicine, health informatics, and other domains
+
+<!---
 A.  Big Data Science and Foundations
   - Novel Theoretical Models for Big Data
   - New Computational Models for Big Data
   - Data and Information Quality for Big Data
   - New Data Standards
-    
+
 B.  Big Data Infrastructure
   - Cloud/Grid/Stream Computing for Big Data
   - High Performance/Parallel Computing Platforms for Big Data
@@ -86,6 +96,7 @@ H.  Big Data Applications
   - Big Data as a Service
   - Big Data Industry Standards
   - Experiences with Big Data Project Deployments
+-->
 
 Submitted papers should present novel ideas, methodologies, algorithms, or applications in the realm of big data. Papers will be evaluated based on their technical quality, novelty, relevance, and clarity of presentation.
 
