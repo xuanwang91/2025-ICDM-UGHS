@@ -118,13 +118,13 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - Symposium Date: TBD 
 
 ## How to Submit
-Please submit your papers electronically through the symposium's submission portal: **TBD**. The review process is single-blind, meaning that reviewers remain anonymous, but authors are not. All papers accepted by this symposium will be included in the Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference. 
+Please submit your papers electronically through the symposium's submission portal: TBD. The review process is single-blind, meaning that reviewers remain anonymous, but authors are not. All papers accepted by this symposium will be included in the Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference. 
 
 ## Program Committee Members
-**TBD**
+TBD
 
 ## Program Agenda
-**TBD**
+TBD
 
 ## Program Co-Chairs
-Join us in shaping the future of data mining research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/) and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
+Join us in shaping the future of data mining research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/) and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at TBD.
