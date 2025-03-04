@@ -17,10 +17,10 @@ body {
 }
 /* change container size for easier reading */
 @if variable-exists(container-max) {
-    @media (min-width:800px){
+    @media (min-width:992px){
         .container{ max-width: $container-max }
     }
-    @media (min-width:800px){
+    @media (min-width:1200){
         .container{ max-width: $container-max }
     }
 }
