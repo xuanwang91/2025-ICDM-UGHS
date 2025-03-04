@@ -96,8 +96,8 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 
 ## Submission Format Requirements
 - Submissions must adhere to the IEEE Computer Society Proceedings Manuscript Formatting Guidelines (see link to "formatting instructions" below: [https://www.ieee.org/conferences/publishing/templates.html](https://www.ieee.org/conferences/publishing/templates.html)).
-- **Undergraduate student** research papers should not exceed **6 pages**, including all figures, tables, and references.
-- **High school student** research papers should not exceed **5 pages**, including all figures, tables, and references.
+- Undergraduate student research papers should not exceed 6 pages, including all figures, tables, and references.
+- High school student research papers should not exceed 5 pages, including all figures, tables, and references.
 - **Please highlight whether the first author is a high school student or an undergraduate student in the author affiliation of your submitted paper.**
 
 ## Important Dates 
@@ -114,4 +114,4 @@ Please submit your papers electronically through the symposium's submission port
 ## Program Agenda (TBD)
 
 ## Program Co-Chairs
-Join us in shaping the future of big data research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/)** and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
+Join us in shaping the future of big data research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [**Dr. Xuan Wang**](https://xuanwang91.github.io/) and [**Dr. Yanjie Fu**](https://www.yanjiefu.com/) at **TBD**.
