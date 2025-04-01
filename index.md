@@ -118,7 +118,10 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - Symposium Date: TBD 
 
 ## How to Submit
-Please submit your papers electronically through the symposium's submission portal: TBD. The review process is single-blind, meaning that reviewers remain anonymous, but authors are not. All papers accepted by this symposium will be included in the Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference. 
+- Please submit your papers electronically through the symposium's submission portal: TBD.
+- The review process is single-blind, meaning that reviewers remain anonymous, but authors are not.
+- All papers accepted by this symposium will be included in the ICDM Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference.
+- Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. ICDM offers a one-day registration rate for undergraduate and high school symposium attendees.
 
 ## Program Committee Members
 TBD
