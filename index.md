@@ -119,7 +119,7 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 
 ## How to Submit
 - Please submit your papers electronically through the symposium's submission portal: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php).
-- The review process is single-blind, meaning that reviewers remain anonymous, but authors are not.
+- The review process is single-blind, meaning that reviewers remain anonymous to the authors, but authors are not anonymous to the reviewers.
 - All papers accepted by this symposium will be included in the ICDM Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference.
 - Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. ICDM offers a one-day registration rate for undergraduate and high school symposium attendees.
 
