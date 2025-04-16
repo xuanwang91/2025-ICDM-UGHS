@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-# IEEE ICDM 2025: Undergraduate and High School Symposium
+# RAiM 2025: The First International Workshop on Resilient Artificial Intelligence for Manufacturing (ICDM 2O25)
 
 Time: **Nov 11-15, 2025**
 
