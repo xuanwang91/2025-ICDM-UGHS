@@ -9,6 +9,11 @@ Time: **Nov 11-15, 2025**
 
 Location: **Washington D.C., USA**
 
+## Why Participate in the High School & Undergraduate Symposium?
+– Present your research to an international audience at one of the **premier data mining conferences**.
+– Compete for **Outstanding Paper Awards**, **Runner-Up Awards**, and **Rising Star Awards** honoring exceptional student contributions.
+- Interact directly with **top AI researchers**, **industry innovators**, and **NSF Program Directors**.
+– Benefit from **reduced registration costs** designed to support student participation.
 
 ## Introduction
 We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of data mining and related disciplines.
