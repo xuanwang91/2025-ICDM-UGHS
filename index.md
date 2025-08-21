@@ -129,9 +129,6 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - All papers accepted by this symposium will be included in the ICDM Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference.
 - Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. ICDM offers a one-day registration rate for undergraduate and high school symposium attendees.
 
-## Program Committee Members
-TBD
-
 ## Program Agenda
 Below is a tentative schedule for our one-day symposium:
 
