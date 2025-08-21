@@ -133,7 +133,30 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 TBD
 
 ## Program Agenda
-TBD
+Below is a tentative schedule for our one-day symposium:
+
+9:00 – 9:10 am: Opening Remarks
+
+9:10 – 10:00 am: Keynote by NSF Program Director
+
+10:00 – 10:30 am: Coffee Break
+
+10:30 – 11:00 am: Fireside Chat with Dr. Jure Leskovec
+
+11:00 – 12:00 pm: Oral Session 1
+
+12:00 – 2:00 pm: Poster Session (lunch on your own)
+
+2:00 – 3:00 pm: Panel with Parents (Next Generation AI Education)
+
+3:00 – 4:00 pm: Oral Session 2
+
+4:00 – 4:30 pm: Coffee Break
+
+4:30 – 4:50 pm: Best Paper Award Announcement
+
+4:50 – 5:00 pm: Closing Remarks
+
 
 ## Program Co-Chairs
 Join us in shaping the future of data mining research by sharing your insights and discoveries at the Undergraduate and High School Symposium. We look forward to receiving your submissions and to an engaging and enriching event at IEEE ICDM 2025 Conference. For further information or any questions regarding submissions, please contact the Undergraduate and High School Symposium Co-Chairs, [Dr. Xuan Wang](https://xuanwang91.github.io/) and [Dr. Yanjie Fu](https://www.yanjiefu.com/) at [ieee-icdm-2025-undergraduate-and-high-school-symposium-g@vt.edu](mailto:ieee-icdm-2025-undergraduate-and-high-school-symposium-g@vt.edu).
