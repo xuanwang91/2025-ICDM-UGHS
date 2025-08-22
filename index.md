@@ -138,7 +138,7 @@ Below is a tentative schedule for our one-day symposium:
 
 10:00 – 10:30 am: Coffee Break
 
-10:30 – 11:00 am: Fireside Chat with Dr. Jure Leskovec
+10:30 – 11:00 am: Fireside Chat with Dr. [Jure Leskovec](https://cs.stanford.edu/people/jure/) (CS@Stanford)
 
 11:00 – 12:00 pm: Oral Session 1
 
