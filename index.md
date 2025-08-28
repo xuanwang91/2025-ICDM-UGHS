@@ -118,7 +118,7 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - **Please highlight whether the first author is a high school or an undergraduate student in the author affiliation of your submitted paper.**
 
 ## Important Dates 
-- Paper Submission Deadline: Sep 1, 2025 11:59 PM AoE
+- Paper Submission Deadline: ~~Sep 1, 2025 11:59 PM AoE~~ Sep 7, 2025 11:59 PM AoE (Deadline Extended!)
 - Notification of Acceptance: Oct 1, 2025 
 - Camera-Ready Paper Submission: Oct 15, 2025
 - Symposium Date: TBD 
