@@ -14,7 +14,7 @@ Location: **Washington D.C., USA**
 - Present your research to an international audience at one of the **premier data mining conferences**.
 - Compete for **Outstanding Paper Awards**, **Runner-Up Awards**, and **Rising Star Awards** honoring exceptional student contributions.
 - Interact directly with **top AI researchers**, **industry innovators**, and **NSF Program Directors**.
-- Benefit from **reduced registration costs** designed to support student participation.
+<!-- - Benefit from **reduced registration costs** designed to support student participation. -->
 
 ## Introduction
 We are delighted to announce the 2nd Undergraduate and High School Symposium, to be held as part of the IEEE ICDM 2025 Conference. This symposium aims to provide a platform for young researchers to showcase their innovative work in the field of data mining and related disciplines.
@@ -127,7 +127,7 @@ Submitted papers should present novel ideas, methodologies, algorithms, or appli
 - Please submit your papers electronically through the symposium's submission portal: [https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php](https://wi-lab.com/cyberchair/2025/icdm25/scripts/submit.php?subarea=S01&undisplay_detail=1&wh=/cyberchair/2025/icdm25/scripts/ws_submit.php).
 - The review process is single-blind, meaning that reviewers remain anonymous to the authors, but authors are not anonymous to the reviewers.
 - All papers accepted by this symposium will be included in the ICDM Workshop Proceedings published by the IEEE Computer Society Press, and made available at the Conference.
-- Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. ICDM offers a one-day registration rate for undergraduate and high school symposium attendees.
+- Each accepted paper must have at least one author to register the conference and present the paper in person during the symposium day at the conference. <!-- ICDM offers a one-day registration rate for undergraduate and high school symposium attendees. -->
 
 ## Program Agenda
 Below is a tentative schedule for our one-day symposium:
